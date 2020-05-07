@@ -1,0 +1,6 @@
+This final project is an exploration of the world of animation through text analytics. A bag of word analysis will be conducted on a animation dataset to see if there is patterns in genres of work.
+The dataset is https://www.kaggle.com/canggih/anime-data-score-staff-synopsis-and-genre. 
+Questions to be answered in this project are 
+1. What is the most popular type of animation?
+2. Does rating and favorite tend to be somewhat divergent?
+3. What are the words in description that are probably associated with higher rating?
